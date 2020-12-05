@@ -1,0 +1,247 @@
+@media(max-width:1300px) {
+    .container {
+        width: 85%;
+    }
+    .numbers_body {
+        width: 90%;
+    }
+    .courses_page__text {
+        flex-basis: 50%;
+    }
+    .courses_form {
+        flex-basis: 40%;
+    }
+}
+
+@media(max-width:1150px) {
+    .container {
+        width: 95%;
+    }
+    .services header {
+        flex-basis: 100%;
+    }
+    .services_body {
+        flex-basis: 100%;
+        padding: 10px;
+    }
+}
+
+@media(max-width:980px) {
+    .container {
+        width: 98%;
+    }
+    .numbers_body {
+        width: 100%;
+    }
+    .logo {
+        padding-left: 20px;
+    }
+    .side_menu {
+        position: absolute;
+        right: -10px;
+        top: 62px;
+        display: none;
+    }
+    .close_menu.active {
+        display: block;
+    }
+    .side_menu.active {
+        display: flex;
+    }
+    .side_menu ul {
+        flex-direction: column;
+        width: 260px;
+        background-color: #fff;
+        min-height: 100vh;
+        align-items: center;
+        overflow: auto;
+    }
+    .side_menu ul li {
+        margin-top: 25px;
+    }
+    .side_menu ul li a {
+        font-size: 1.2rem;
+        color: #000f5c !important;
+    }
+    .menu_hamburguer {
+        display: flex;
+        padding: 0 20px;
+        cursor: pointer;
+    }
+    .menu_hamburguer span {
+        display: flex;
+        color: #000f5c;
+        font-size: 2.5rem;
+        cursor: pointer;
+    }
+    .habilty article {
+        flex-basis: calc(46% - 30px);
+    }
+    .footer_items {
+        width: 24%;
+        margin-bottom: 20px;
+    }
+    .footer_items ul {
+        justify-content: center;
+        padding-left: 20px;
+    }
+    .courses_form {
+        width: 50%;
+    }
+    .enterprise_items {
+        flex-basis: 48%;
+    }
+}
+
+@media( max-width: 950px) {
+    .banner_text h2 {
+        font-size: 1.2rem;
+        line-height: 25px;
+    }
+    .banner_text strong {
+        font-size: 2.8rem;
+        line-height: 46px;
+    }
+    .banner_text p {
+        line-height: 25px;
+        font-size: .9rem;
+    }
+    .numbers_body {
+        width: 100%;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .numbers_items:first-of-type {
+        display: none;
+    }
+    .numbers_body .numbers_items {
+        width: 25%;
+    }
+}
+
+@media( max-width: 920px) {
+    .partner_clientes ul li {
+        width: 23%;
+        text-align: center;
+        margin: 2% .56%;
+    }
+    .apresentation_text,
+    .apresentatiom_img {
+        flex-basis: 80%;
+        margin: 10px auto;
+    }
+    .courses_page__text {
+        flex-basis: 100%;
+    }
+    .courses_form {
+        flex-basis: 80%;
+        margin: 30px auto;
+    }
+}
+
+@media( max-width: 860px) {
+    .banner_img {
+        display: none;
+    }
+    .banner .container>div {
+        width: 100%;
+        padding: 40px 20px;
+    }
+    .partner_clientes ul li a img {
+        width: 60%;
+    }
+    .footer_items {
+        width: 45%;
+    }
+    .depoiments_body .depoiments_item {
+        width: 88%;
+    }
+    .courses_section_item.services {
+        width: 48%;
+    }
+    .courses_page__text {
+        width: 80%;
+        padding: 20px;
+        margin: auto;
+    }
+    .depoiment_body {
+        width: 80%;
+    }
+}
+
+@media(max-width:750px) {
+    .depoiment_body {
+        width: 100%;
+    }
+    .habilty article {
+        flex-basis: calc(100% - 30px);
+    }
+    .banner_text strong {
+        font-size: 2.18rem;
+        line-height: 46px;
+    }
+    .logo a {
+        font-size: 1rem;
+    }
+    .footer_items {
+        width: 100% !important;
+        justify-content: center;
+    }
+    .depoiments_body .depoiments_item {
+        width: 96%;
+    }
+    .partner_clientes ul li {
+        width: 32%;
+    }
+    .back_orage strong {
+        font-size: 2rem;
+    }
+    .back_orage span {
+        font-size: 3rem;
+    }
+    .enterprise_items {
+        flex-basis: 98%;
+        margin: 20px auto;
+    }
+    .services_body article {
+        flex-basis: 100%;
+    }
+}
+
+@media(max-width:650px) {
+    .courses_form {
+        width: 100%;
+    }
+    .courses_page__text {
+        width: 100%;
+    }
+    .apresentation_text,
+    .apresentatiom_img {
+        flex-basis: 100%;
+        margin: 10px auto;
+    }
+}
+
+@media(max-width:500px) {
+    .numbers_body .numbers_items {
+        flex-basis: 50%;
+        margin-bottom: 1px;
+    }
+    .foto {
+        width: 100%;
+        height: 240px;
+    }
+    .partner_clientes ul li {
+        width: 48%;
+    }
+    .courses_form {
+        flex-basis: 100%;
+        margin: 30px auto;
+    }
+}
+
+@media(max-width:400px) {
+    .partner_clientes ul li {
+        width: 98%;
+    }
+}
