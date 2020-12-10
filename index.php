@@ -46,30 +46,6 @@
 
         </div>
     </section>
-    <div class="numbers container">
-        <div class="numbers_body">
-            <div class="numbers_items">
-                A solunave em números
-            </div>
-            <div class="numbers_items">
-                <span>Servicos</span>
-                <strong>4000</strong>
-
-            </div>
-            <div class="numbers_items">
-                <span>Clientes</span>
-                <strong>30+</strong>
-            </div>
-            <div class="numbers_items">
-                <span>Parceiros</span>
-                <strong>30+</strong>
-            </div>
-            <div class="numbers_items">
-                <span>Doações</span>
-                <strong>30+</strong>
-            </div>
-        </div>
-    </div>
     <section class="section_padding apresentation" id="somos">
         <div class="container">
             <div class="apresentation_text">
@@ -91,22 +67,9 @@
             </div>
             <div class="apresentatiom_img" style="
             background-image:url('images/container.jpg')">
-                <div class="back_white">
-                    <div class="back_orage">
-                        <span class="ion-ios-call"></span>
-                        <strong>
-                            224
-                        </strong>
-                        <strong>
-                            9324
-                        </strong>
-                        <strong>
-                            04534
-                        </strong>
 
-                    </div>
-                </div>
             </div>
+        </div>
         </div>
         <div class="container">
             <article class="enterprise_items">
@@ -130,10 +93,11 @@
                         Responsabilidade, confiança e integridade,
                     </li>
                     <li>
-                    <span class="ion-ios-play"></span>Capacidade para aceitar grandes desafios e solucioná-los.
+                        <span class="ion-ios-play"></span>Capacidade para aceitar grandes desafios e solucioná-los.
                     </li>
                     <li>
-                    <span class="ion-ios-play"></span> Qualidade e melhoria contínua dos nossos serviços para satisfação dos nossos
+                        <span class="ion-ios-play"></span> Qualidade e melhoria contínua dos nossos serviços para
+                        satisfação dos nossos
                         clientes.
                     </li>
                 </ul>
@@ -159,10 +123,7 @@
                     <h2>
                         Entrada e saída de navios
                     </h2>
-                    <p>
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ab blanditiis tempore id qui incidunt
-                        omnis aperiam quis voluptatum
-                    </p>
+                   
                 </article>
                 <article>
                     <div class="figure">
@@ -172,22 +133,14 @@
                         Tramitação da documentação das entidades marítimas
 
                     </h2>
-                    <p>
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ab blanditiis tempore id qui incidunt
-                        omnis aperiam quis voluptatum a
-                    </p>
                 </article>
                 <article>
-                    <div class="figure">
-                        <span class="ion-ios-boat"></span>
+                    <div class="figure" style="padding:6px">
+                        <img src="images/captain.png">
                     </div>
                     <h2>
                         Embarque e desembarque de marinheiros
                     </h2>
-                    <p>
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ab blanditiis tempore id qui incidunt
-                        omnis aperiam quis voluptatu
-                    </p>
                 </article>
                 <article>
                     <div class="figure">
@@ -196,36 +149,25 @@
                     <h2>
                         Hospedagem e transporte para marinheiros
                     </h2>
-                    <p>
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ab blanditiis tempore id qui incidunt
-                        omnis aperiam quis voluptatu
-                    </p>
+                    
                 </article>
                 <article>
-                    <div class="figure">
-                        <span class="ion-ios-cash"></span>
+                <div class="figure" style="padding:10px">
+                        <img src="images/money.png">
                     </div>
                     <h2>
                         Processamento de salários para marinheiros
 
                     </h2>
-                    <p>
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ab blanditiis tempore id qui incidunt
-                        omnis aperiam quis voluptatum
-                    </p>
                 </article>
                 <article>
-                    <div class="figure">
-                        <span class="ion-ios-attach"></span>
+                <div class="figure" style="padding:10px">
+                        <img src="images/official-documents.png">
                     </div>
                     <h2>
                         Agenciamento de marinheiros
 
                     </h2>
-                    <p>
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ab blanditiis tempore id qui incidunt
-                        omnis aperiam quis voluptatum
-                    </p>
                 </article>
             </div>
         </div>
@@ -233,7 +175,7 @@
     <section class="section_padding depoiments">
         <div class="container">
             <div class="depoiment_body">
-                <h2>Clientes e Parceiros satisfeitos</h2>
+                <h2>Nossos parceiros</h2>
                 <div class="owl owl-carousel event_slider">
                     <div class="depoiment_item">
                         <div class="figure">
@@ -257,7 +199,67 @@
                     </div>
                     <div class="depoiment_item">
                         <div class="figure">
-                            <img src="images/ende.png">
+                            <img src="images/governo.png">
+                        </div>
+                        <div class="depiment_txt">
+                            <span class="ion-ios-quote"></span>
+                            <span class="ion-ios-quote"></span>
+                            <p>
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro voluptatibus atque modi
+                                qui,
+                                consectetur iste sit eos deserunt commodi optio ab quae cupiditate incidunt. Odio
+                                commodi
+                                minima ad modi sit!
+                            </p>
+                        </div>
+                        <div class="datas">
+                            <strong>Ende EP</strong>
+                            <span>Industria de Electrica</span>
+                        </div>
+                    </div>
+                    <div class="depoiment_item">
+                        <div class="figure">
+                            <img src="images/siac.png">
+                        </div>
+                        <div class="depiment_txt">
+                            <span class="ion-ios-quote"></span>
+                            <span class="ion-ios-quote"></span>
+                            <p>
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro voluptatibus atque modi
+                                qui,
+                                consectetur iste sit eos deserunt commodi optio ab quae cupiditate incidunt. Odio
+                                commodi
+                                minima ad modi sit!
+                            </p>
+                        </div>
+                        <div class="datas">
+                            <strong>Ende EP</strong>
+                            <span>Industria de Electrica</span>
+                        </div>
+                    </div>
+                    <div class="depoiment_item">
+                        <div class="figure">
+                            <img src="images/masterbz.png">
+                        </div>
+                        <div class="depiment_txt">
+                            <span class="ion-ios-quote"></span>
+                            <span class="ion-ios-quote"></span>
+                            <p>
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro voluptatibus atque modi
+                                qui,
+                                consectetur iste sit eos deserunt commodi optio ab quae cupiditate incidunt. Odio
+                                commodi
+                                minima ad modi sit!
+                            </p>
+                        </div>
+                        <div class="datas">
+                            <strong>Ende EP</strong>
+                            <span>Industria de Electrica</span>
+                        </div>
+                    </div>
+                    <div class="depoiment_item">
+                        <div class="figure">
+                            <img src="images/masterbz.png">
                         </div>
                         <div class="depiment_txt">
                             <span class="ion-ios-quote"></span>
@@ -279,7 +281,7 @@
             </div>
         </div>
     </section>
-    <section class="partner_clientes"id="contacto">
+    <section class="partner_clientes" id="contacto">
         <h2 class="html5_outline">Parceiros e Clientes</h2>
         <div class="container">
             <ul>
@@ -295,6 +297,10 @@
                 <li>
                     <img src="images/ende.png" title="">
                 </li>
+                <li>
+                    <img src="images/ende.png" title="">
+                </li>
+
 
             </ul>
         </div>
@@ -311,7 +317,7 @@
             <p class="rsp"></p>
             <p class="rsp_error"></p>
             <form>
-                <input type="text" class="name" placeholder="Nome Completo" >
+                <input type="text" class="name" placeholder="Nome Completo">
                 <input type="email" placeholder="Email" class="email" required>
                 <input type="text" placeholder="Telefone" class="telefone">
                 <textarea rows="7" class="message"></textarea>

@@ -190,7 +190,7 @@ p iframe {
 }
 
 .banner .container>div {
-    width: 60%;
+    width: 80%;
     position: relative;
 }
 
@@ -474,7 +474,7 @@ p iframe {
     flex-basis: calc(35% - 30px);
     margin-top: -30px;
     text-align: left;
-    padding-right: 30px
+    padding-right: 30px;
 }
 
 .services header h2 {
@@ -505,6 +505,7 @@ p iframe {
     margin-bottom: 10px;
     line-height: 26px;
     color: #0d27ac;
+    width: calc(100% - 80px);
 }
 
 .services_body p {
@@ -523,6 +524,7 @@ p iframe {
     background-color: #fff;
     border-radius: 50%;
     margin-bottom: 10px;
+    margin-right: 10px;
 }
 
 .figure span {
@@ -533,6 +535,8 @@ p iframe {
 .services_body article {
     flex-basis: 50%;
     padding: 0px 20px 30px 0;
+    display: flex;
+    align-items: center;
 }
 
 .depoiment_body {
@@ -773,12 +777,17 @@ footer .container {
     flex-wrap: wrap;
 }
 
+.footer_items div a span {
+    font-size: 1.4rem;
+    padding-right: 10px;
+}
+
 .footer_items div a {
     color: #aaa;
-    padding: 5px 15px;
-    border: 1px solid #aaa;
     margin-right: 10px;
     margin-bottom: 10px;
+    display: flex;
+    align-items: center;
 }
 
 .not_found {

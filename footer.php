@@ -41,12 +41,12 @@
         <div class="footer_items">
             <h3>Serviços <span class="separator"></span></h3>
             <div>
-                <a href="">Entrada e saída de navios</a>
-                <a href="">Embarque e desembarque de marinheiros</a>
-                <a href="">Hospedagem e transporte para marinheiros</a>
-                <a href="">Tramitação da documentação das entidades marítimas</a>
-                <a href="">Processamento de salários pra marinheiros</a>
-                <a href=""> Agenciamento de marinheiros</a>
+                <a href=""><span class="ion-ios-checkmark"></span> Entrada e saída de navios</a>
+                <a href=""><span class="ion-ios-checkmark"></span>Embarque e desembarque de marinheiros</a>
+                <a href=""><span class="ion-ios-checkmark"></span>Hospedagem e transporte para marinheiros</a>
+                <a href=""><span class="ion-ios-checkmark"></span>Tramitação da documentação das entidades marítimas</a>
+                <a href=""><span class="ion-ios-checkmark"></span>Processamento de salários pra marinheiros</a>
+                <a href=""><span class="ion-ios-checkmark"></span>Agenciamento de marinheiros</a>
             </div>
         </div>
 
